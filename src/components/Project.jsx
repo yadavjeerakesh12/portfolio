@@ -86,8 +86,8 @@ function Project() {
                   <span
                     key={techIndex}
                     className="px-3 py-1 bg-fuchsia-100
-                               text-fuchsia-700 rounded-full
-                               text-sm font-semibold"
+                              text-fuchsia-700 rounded-full
+                              text-sm font-semibold"
                   >
                     {tech}
                   </span>
@@ -105,7 +105,7 @@ function Project() {
                   target="_blank"
                   rel="noreferrer"
                   className="px-5 py-2 bg-gray-900 text-white
-                             rounded-lg hover:bg-gray-700 transition"
+                            rounded-lg hover:bg-gray-700 transition"
                 >
                   GitHub
                 </a>
